@@ -1,0 +1,12 @@
+User Function TipoForte()
+Local cTexto as char
+Local nNumero as numeric
+local dDate as Date
+local aMatriz as Array
+local oObjeto as Object
+local lLocical as Logical
+
+
+
+
+Return
