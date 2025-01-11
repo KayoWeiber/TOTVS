@@ -7,7 +7,7 @@
 			"name": "TOTVS Language Debug",
 			"program": "${command:AskForProgramName}",
 			"cwb": "${workspaceFolder}",
-			"smartclientBin": "../totvs/bin/smartclient/smartclient.exe - Atalho",
+			"smartclientBin": "C:/TOTVS/Protheus2310/Protheus/bin/smartclient/smartclient.exe",
 			"isMultiSession": true,
 			"enableTableSync": true,
 			"extendFeatures": {
@@ -19,8 +19,19 @@
 		{
 			"args": [],
 			"label": "u_aula1"
+		},
+		{
+			"args": [],
+			"label": "u_aula"
+		},
+		{
+			"label": "func2"
+		},
+		{
+			"args": [],
+			"label": "u_func3"
 		}
 	],
-	"lastProgramExecuted": "u_aula1",
+	"lastProgramExecuted": "u_func3",
 	"lastProgramArguments": []
 }
