@@ -34,8 +34,12 @@
 		{
 			"args": [],
 			"label": "u_VarTipos"
+		},
+		{
+			"args": [],
+			"label": "U_Func1"
 		}
 	],
-	"lastProgramExecuted": "u_VarTipos",
+	"lastProgramExecuted": "U_Func1",
 	"lastProgramArguments": []
 }
