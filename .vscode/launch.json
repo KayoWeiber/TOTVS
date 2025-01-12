@@ -46,8 +46,16 @@
 		{
 			"args": [],
 			"label": "U_DoCase"
+		},
+		{
+			"args": [],
+			"label": "U_ExWhile"
+		},
+		{
+			"args": [],
+			"label": "U_ExerFor"
 		}
 	],
-	"lastProgramExecuted": "U_DoCase",
+	"lastProgramExecuted": "U_ExerFor",
 	"lastProgramArguments": []
 }
