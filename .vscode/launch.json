@@ -38,8 +38,16 @@
 		{
 			"args": [],
 			"label": "U_Func1"
+		},
+		{
+			"args": [],
+			"label": "U_VldVenda"
+		},
+		{
+			"args": [],
+			"label": "U_DoCase"
 		}
 	],
-	"lastProgramExecuted": "U_Func1",
+	"lastProgramExecuted": "U_DoCase",
 	"lastProgramArguments": []
 }
