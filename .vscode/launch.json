@@ -54,8 +54,15 @@
 		{
 			"args": [],
 			"label": "U_ExerFor"
+		},
+		{
+			"label": "sigafat"
+		},
+		{
+			"args": [],
+			"label": "u_OlaMundo"
 		}
 	],
-	"lastProgramExecuted": "U_ExerFor",
+	"lastProgramExecuted": "sigafat",
 	"lastProgramArguments": []
 }
