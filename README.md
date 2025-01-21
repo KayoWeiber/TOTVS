@@ -35,6 +35,4 @@ Este repositório é focado nos meus estudos pessoais. Sugestões, correções e
 ## 📝 Notas Finais
 O aprendizado dessas linguagens é uma jornada importante para o desenvolvimento de soluções no ecossistema TOTVS. Este repositório é um reflexo do meu progresso, e espero que também possa servir de inspiração para outros iniciantes.
 
----
 
-**🎯 Vamos codar e evoluir!**
