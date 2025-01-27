@@ -10,7 +10,7 @@ Exemplo de primeiro programa ADVPL
 */
 
 
-User Function TesteTI()
+User Function TesteTI2()
     alert("Hello World!!")
 
 Return

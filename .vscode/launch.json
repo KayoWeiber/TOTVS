@@ -61,8 +61,11 @@
 		{
 			"args": [],
 			"label": "u_OlaMundo"
+		},
+		{
+			"label": "SIGAMDI"
 		}
 	],
-	"lastProgramExecuted": "sigafat",
+	"lastProgramExecuted": "SIGAMDI",
 	"lastProgramArguments": []
 }
