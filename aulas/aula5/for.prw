@@ -28,7 +28,4 @@ User Function ExerFor()
         alert(nInicio)
     next
 
-
-
-
 Return

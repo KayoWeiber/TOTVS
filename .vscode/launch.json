@@ -64,8 +64,12 @@
 		},
 		{
 			"label": "SIGAMDI"
+		},
+		{
+			"args": [],
+			"label": "u_treino"
 		}
 	],
-	"lastProgramExecuted": "SIGAMDI",
+	"lastProgramExecuted": "u_treino",
 	"lastProgramArguments": []
 }
